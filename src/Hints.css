@@ -1,0 +1,9 @@
+#requestHintButton {
+    width: min(20vw, 200px);
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    color: darkgreen;
+}

@@ -1,0 +1,22 @@
+.inputBox {
+    height: 5vh;
+}
+
+.gameButton {
+    font-weight: bold;
+    width: min(8vw, 80px);
+    height: 5vh;
+    font-size: min(2vw, 20px);
+}
+
+.darkBlue {
+    background-color: #19447c;
+    /* Even darker blue */
+    border-color: #19447c;
+    color: white;
+}
+
+.darkBlue:hover {
+    background-color: #072658;
+    color: white;
+}
