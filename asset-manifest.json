@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GuessTheWordFrontend/static/css/main.7fefe778.css",
+    "main.css": "/GuessTheWordFrontend/static/css/main.93268a0b.css",
     "main.js": "/GuessTheWordFrontend/static/js/main.facd149b.js",
     "index.html": "/GuessTheWordFrontend/index.html",
-    "main.7fefe778.css.map": "/GuessTheWordFrontend/static/css/main.7fefe778.css.map",
+    "main.93268a0b.css.map": "/GuessTheWordFrontend/static/css/main.93268a0b.css.map",
     "main.facd149b.js.map": "/GuessTheWordFrontend/static/js/main.facd149b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fefe778.css",
+    "static/css/main.93268a0b.css",
     "static/js/main.facd149b.js"
   ]
 }
