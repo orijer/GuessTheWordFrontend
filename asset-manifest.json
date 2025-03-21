@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GuessTheWordFrontend/static/css/main.7fefe778.css",
+    "main.js": "/GuessTheWordFrontend/static/js/main.facd149b.js",
+    "index.html": "/GuessTheWordFrontend/index.html",
+    "main.7fefe778.css.map": "/GuessTheWordFrontend/static/css/main.7fefe778.css.map",
+    "main.facd149b.js.map": "/GuessTheWordFrontend/static/js/main.facd149b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fefe778.css",
+    "static/js/main.facd149b.js"
+  ]
+}
