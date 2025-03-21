@@ -1,6 +1,8 @@
 # Guess The Word Frontend
 This repository holds the frontend code for my Guess the word game. The backend repository can be found [here](https://github.com/orijer/GuessTheWordBackend).
 
+Here is a [link to the game](https://orijer.github.io/GuessTheWordFrontend/). The first interaction with the server might be very slow, but after that it should be very quick.
+
 In the game there is a secret word that the player needs to find by asking how similar the guess and hidden words are to each other.
 
 My main inspiration was of course [samental](https://semantle.ishefi.com/), but I wanted to create a game that both allowed the player to use as many hints as they want, and allowed players to play with other words after they find the daily word.
